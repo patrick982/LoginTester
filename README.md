@@ -12,5 +12,5 @@ replace the user and password and URL placeholder and automate the execution via
 the generated mails could be captured by services like sapier and transferred into a call via twilio for a low amount of $
 this setup was already used by myself and I really can recommend it (unfortunately without getting a commission)
 
-## closing setnece
+## closing sentence
 I hope you enjoy and it helps you for your business context
